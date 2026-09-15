@@ -16,6 +16,15 @@ I design and build **scalable backend systems** where architecture, performance,
 
 ---
 
+## 📫 Connect with Me
+
+- 💼 LinkedIn: [linkedin.com/in/rach95](https://linkedin.com/in/rach95)
+- 🎓 Udemy Channel: [Debuggeando Ideas](https://www.udemy.com/user/rene-calderon-9/?srsltid=AU7gw4XwB561IxausGMC2JP45piIqMjQ-2HVAt1KclEQ6YPu50FonK3o)
+- 🌐 Website: [debuggeandoideas.net](https://debuggeandoideas.net/)
+- 𝕏 Twitter: [DebuggeandoIDev](https://x.com/DebuggeandoIDev)
+
+---
+
 ## ⚙️ Tech Stack
 
 ### 👨‍💻 Backend
@@ -39,19 +48,6 @@ I design and build **scalable backend systems** where architecture, performance,
 - AI-driven development workflows
 - Ollama, local models, automation pipelines
 
----
-
-## 🔥 Featured Projects
-
-🚀 Check my pinned repositories to see:
-
-- 🏗️ **ERP System** with DDD + CQRS + AI integration  
-- ⚡ **Reactive Microservices** with WebFlux + MongoDB  
-- 🔁 **Event-driven architecture** with Kafka  
-- 🤖 **AI-driven backend systems** with LLM agents  
-
----
-
 ## 🎓 Debuggeando Ideas
 
 I also teach advanced backend development and modern architectures:
@@ -61,14 +57,6 @@ I also teach advanced backend development and modern architectures:
 - 🤖 AI-driven software development
 
 👉 Focused on **real-world systems, not simple CRUD**
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: [your-linkedin]
-- 🎓 Courses: [your-udemy]
-- 🌐 Website: [your-site]
 
 ---
 
